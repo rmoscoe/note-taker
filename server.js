@@ -14,6 +14,8 @@ app.get('/', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/index.html'))
 );
 
-// 404 route
+app.get("/notes", (req, res) => 
+  res.sendFile(path.join(__dirname, "/public/notes.html"))  
+);
 
 app.listen(PORT, () => console.log(`Now listening on port ${PORT}`));
