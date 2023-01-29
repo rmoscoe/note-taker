@@ -12,3 +12,5 @@ function generateId () {
     usedIds.push(newId);
     return newId;
 }
+
+module.exports = generateId;
