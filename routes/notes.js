@@ -30,7 +30,6 @@ notes.post("/", (req, res) => {
         let notesArr = [];
         const currentNotes = noteList()
             .then((response) => {
-                console.log(response);
                 if (response === "Error") {
                     res.status(502).json('Error in saving note');
                 } else {
