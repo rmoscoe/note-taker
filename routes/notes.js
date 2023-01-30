@@ -1,7 +1,7 @@
 const notes = require("express").Router();
 const fs = require("fs");
 const noteid = require("../helpers/noteid");
-const noteList = require("../helpers/notelist");
+const noteList = require("../helpers/noteList");
 const path = require("path");
 
 // GET route
