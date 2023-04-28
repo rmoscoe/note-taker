@@ -22,12 +22,16 @@ This app allows a user to save notes in an online repository so they can be retr
 
 ## Table of Contents
 
-* [Code Refactor Example](#code-refactor-example)
-* [Usage](#usage)
-* [Learning Points](#learning-points)
-* [Author Info](#author-info)
-* [Credits](#credits)
-* [License](#license)
+- [Technology Used](#technology-used)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Code Refactor Example](#code-refactor-example)
+- [Usage](#usage)
+- [Learning Points](#learning-points)
+- [Author Info](#author-info)
+  - [Ryan Moscoe](#ryan-moscoe)
+- [Credits](#credits)
+- [License](#license)
 
 <br/>
 
@@ -128,7 +132,7 @@ I learned several valuable skills in the course of completing this project:
 
 ### Ryan Moscoe 
 
-* [Portfolio](https://rmoscoe.github.io/portfolio/)
+* [Portfolio](https://rmoscoe.github.io/my-portfolio/)
 * [LinkedIn](https://www.linkedin.com/in/ryan-moscoe-8652973/)
 * [Github](https://github.com/rmoscoe)
 
